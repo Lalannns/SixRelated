@@ -1,0 +1,19 @@
+[
+    {"id": "artist001", "name": "Lil Wayne", "role": "Featured Artist"},
+    {"id": "artist002", "name": "Kanye West", "role": "Producer"},
+    {"id": "artist003", "name": "PartyNextDoor", "role": "Featured Artist"},
+    {"id": "artist004", "name": "Rihanna", "role": "Featured Artist"},
+    {"id": "artist005", "name": "Kendrick Lamar", "role": "Featured Artist"},
+    {"id": "artist006", "name": "The Weeknd", "role": "Featured Artist"},
+    {"id": "artist007", "name": "Jay-Z", "role": "Featured Artist"},
+    {"id": "artist008", "name": "2 Chainz", "role": "Featured Artist"},
+    {"id": "artist009", "name": "Wizkid", "role": "Featured Artist"},
+    {"id": "artist010", "name": "Kyla", "role": "Featured Artist"},
+    {"id": "artist011", "name": "Dancehall Artist", "role": "Featured Artist"},
+    {"id": "artist012", "name": "Travis Scott", "role": "Featured Artist"},
+    {"id": "artist013", "name": "Gunna", "role": "Featured Artist"},
+    {"id": "artist014", "name": "6ix9ine", "role": "Featured Artist"},
+    {"id": "artist015", "name": "The Weeknd", "role": "Featured Artist"},
+    {"id": "artist016", "name": "Giveon", "role": "Featured Artist"},
+    {"id": "artist017", "name": "21 Savage", "role": "Featured Artist"}
+]

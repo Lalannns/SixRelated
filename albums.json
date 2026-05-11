@@ -1,0 +1,62 @@
+[
+    {
+        "id": "album001",
+        "name": "Thank Me Later",
+        "release_year": 2010,
+        "release_date": "2010-06-15",
+        "description": "Drake's debut studio album that introduced his signature singing-rap style to mainstream audiences. Features production from PartyNextDoor, Kanye West, and others.",
+        "cover_art": "thank_me_later",
+        "tracks": 12,
+        "featured_artists": ["artist001", "artist002", "artist003"]
+    },
+    {
+        "id": "album002",
+        "name": "Take Care",
+        "release_year": 2011,
+        "release_date": "2011-11-15",
+        "description": "Drake's second studio album exploring themes of relationships and emotional vulnerability. A critical and commercial success that solidified his place in hip-hop.",
+        "cover_art": "take_care",
+        "tracks": 13,
+        "featured_artists": ["artist004", "artist005", "artist006"]
+    },
+    {
+        "id": "album003",
+        "name": "Nothing Was the Same",
+        "release_year": 2013,
+        "release_date": "2013-09-24",
+        "description": "Drake's third studio album marked a shift towards more introspective production and storytelling, featuring some of his most acclaimed tracks.",
+        "cover_art": "nothing_was_the_same",
+        "tracks": 13,
+        "featured_artists": ["artist007", "artist008"]
+    },
+    {
+        "id": "album004",
+        "name": "Views",
+        "release_year": 2016,
+        "release_date": "2016-04-29",
+        "description": "Drake's fourth studio album with a more versatile sound, blending reggae, dancehall, and hip-hop influences. Became one of the most streamed albums globally.",
+        "cover_art": "views",
+        "tracks": 13,
+        "featured_artists": ["artist009", "artist010", "artist011"]
+    },
+    {
+        "id": "album005",
+        "name": "Scorpion",
+        "release_year": 2018,
+        "release_date": "2018-06-29",
+        "description": "Drake's fifth studio album with over 20 tracks exploring diverse themes from relationships to introspection. Features some of his biggest hits.",
+        "cover_art": "scorpion",
+        "tracks": 25,
+        "featured_artists": ["artist012", "artist013", "artist014"]
+    },
+    {
+        "id": "album006",
+        "name": "Certified Lover Boy",
+        "release_year": 2021,
+        "release_date": "2021-09-03",
+        "description": "Drake's sixth studio album focusing on love, relationships, and personal growth. Features collaborations with top artists across genres.",
+        "cover_art": "certified_lover_boy",
+        "tracks": 16,
+        "featured_artists": ["artist015", "artist016", "artist017"]
+    }
+]
